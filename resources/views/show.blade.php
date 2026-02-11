@@ -1,0 +1,9 @@
+<h1>{{ $prisoner->first_name }}</h1>
+<h1>{{ $prisoner->last_name }}</h1>
+<h1>{{ $prisoner->national_id }}</h1>
+<h1>{{ $prisoner->prisoner_number }}</h1>
+<h1>{{ $prisoner->prisoner_card_id }}</h1>
+<h1>{{ $prisoner->phone_number }}</h1>
+<h1>{{ $prisoner->date_of_birth }}</h1>
+<h1>{{ $prisoner->entry_date }}</h1>
+<h1>{{ $prisoner->is_active }}</h1>
